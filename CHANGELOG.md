@@ -4,7 +4,8 @@
 
 ### Changed
 
-- Text findings print the column and name the offending text
+- Pattern findings print an exact column range and name the offending text
+- JSON and SARIF findings include exact end positions
 
 ### Fixed
 
